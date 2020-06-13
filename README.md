@@ -8,8 +8,9 @@ da Rocketseat.
 
 <h2>Telas</h2></br>
 
-<img src="imgs/tela1.png" width="100%" height="50%" >
-<img src="tec-imgs/tela2.png" width="100%" height="50%" >
-<img src="tec-imgs/tela3.png" width="100%" height="50%" >
-<img src="tec-imgs/tela4.png" width="100%" height="50%" >
+<img src="imgs-readme/img1.png" width="85%" height="360px" >
+<img src="imgs-readme/img2.png" width="85%" height="360px" >
+<img src="imgs-readme/img3.png" width="85%" height="360px" >
+<img src="imgs-readme/img4.png" width="85%" height="360px" >
+<img src="imgs-readme/img5.png" width="85%" height="360px" >
 
